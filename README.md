@@ -1,4 +1,9 @@
-# C++ Primer Plus : Programming Exercises
+
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/maxx-zueff/book-exercise.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fmaxx-zueff%2Fbook-exercise)
+![GitHub last commit](https://img.shields.io/github/last-commit/maxx-zueff/book-exercise.svg)
+![Downloads](https://img.shields.io/github/downloads/maxx-zueff/book-exercise/total.svg)
+
+# [C++ Primer Plus][book] : Programming Exercises
 
 This is a repository of the exercises I have done in book **C++ Primer Plus** By Stephen Prata and my answers.
 
@@ -10,13 +15,15 @@ This is a repository of the exercises I have done in book **C++ Primer Plus** By
 | Dealing with data | [#1][0301] : [#2][0302] : [#3][0303] : [#4][0304] : [#5][0305] : [#6][0306] : [#7][0307] |
 | Compound types | [#1][0401] : [#2][0402] : [#3][0403] : [#4][0404] : [#5][0405] |
 
-[0201]: ./02-setting-out-to-c++/task-0201.cpp
-[0202]: ./02-setting-out-to-c++/task-0202.cpp
-[0203]: ./02-setting-out-to-c++/task-0203.cpp
-[0204]: ./02-setting-out-to-c++/task-0204.cpp
-[0205]: ./02-setting-out-to-c++/task-0205.cpp
-[0206]: ./02-setting-out-to-c++/task-0206.cpp
-[0207]: ./02-setting-out-to-c++/task-0207.cpp
+
+[book]: https://www.goodreads.com/book/show/853178.C_Primer_Plus
+[0201]: ./02-setting-out-to-c%2B%2B/task-0201.cpp
+[0202]: ./02-setting-out-to-c%2B%2B/task-0202.cpp
+[0203]: ./02-setting-out-to-c%2B%2B/task-0203.cpp
+[0204]: ./02-setting-out-to-c%2B%2B/task-0204.cpp
+[0205]: ./02-setting-out-to-c%2B%2B/task-0205.cpp
+[0206]: ./02-setting-out-to-c%2B%2B/task-0206.cpp
+[0207]: ./02-setting-out-to-c%2B%2B/task-0207.cpp
 [0301]: ./03-dealing-with-data/task-0301.cpp
 [0302]: ./03-dealing-with-data/task-0302.cpp
 [0303]: ./03-dealing-with-data/task-0303.cpp
@@ -29,3 +36,4 @@ This is a repository of the exercises I have done in book **C++ Primer Plus** By
 [0403]: ./04-compound-types/task-0403.cpp
 [0404]: ./04-compound-types/task-0404.cpp
 [0405]: ./04-compound-types/task-0405.cpp
+
