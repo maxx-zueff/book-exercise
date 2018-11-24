@@ -1,7 +1,7 @@
 
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/maxx-zueff/book-exercise.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fmaxx-zueff%2Fbook-exercise)
-![GitHub last commit](https://img.shields.io/github/last-commit/maxx-zueff/book-exercise.svg)
-![Downloads](https://img.shields.io/github/downloads/maxx-zueff/book-exercise/total.svg)
+[![GitHub last commit](https://img.shields.io/github/last-commit/maxx-zueff/book-exercise.svg)](https://github.com/maxx-zueff/book-exercise/commits/master)
+[![Downloads](https://img.shields.io/github/downloads/maxx-zueff/book-exercise/total.svg)](https://github.com/maxx-zueff/book-exercise/graphs/traffic)
 
 # [C++ Primer Plus][book] : Programming Exercises
 
