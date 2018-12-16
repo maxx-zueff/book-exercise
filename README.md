@@ -14,7 +14,7 @@ This is a repository of the exercises I have done in book **C++ Primer Plus** By
 | Setting out to C++ |  [#1][0201] : [#2][0202] : [#3][0203] : [#4][0204] : [#5][0205] : [#6][0206] : [#7][0207] |
 | Dealing with data | [#1][0301] : [#2][0302] : [#3][0303] : [#4][0304] : [#5][0305] : [#6][0306] : [#7][0307] |
 | Compound types | [#1][0401] : [#2][0402] : [#3][0403] : [#4][0404] : [#5][0405] : [#6][0406] : [#7][0407] : [#8][0408] : [#9][0409] : [#10][0410] |
-| Loops and Relational Expressions | [#1][0501] |
+| Loops and Relational Expressions | [#1][0501] : [#2][0502] : [#3][0503] : [#4][0504] |
 
 
 [book]: https://www.goodreads.com/book/show/853178.C_Primer_Plus
@@ -43,4 +43,6 @@ This is a repository of the exercises I have done in book **C++ Primer Plus** By
 [0409]: ./04-compound-types/task-0409.cpp
 [0410]: ./04-compound-types/task-0410.cpp
 [0501]: ./05-loops-and-relational-expressions/task-0501.cpp
-
+[0502]: ./05-loops-and-relational-expressions/task-0502.cpp
+[0503]: ./05-loops-and-relational-expressions/task-0503.cpp
+[0504]: ./05-loops-and-relational-expressions/task-0504.cpp
